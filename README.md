@@ -35,11 +35,17 @@ The workflow includes:
   
 # Packages & Libraries Used:
 1.pandas – Data manipulation
+
 2.numpy – Numerical computation
+
 3.matplotlib, seaborn – Data visualization
+
 4.sklearn.preprocessing – LabelEncoder, MinMaxScaler
+
 5.sklearn.cluster – KMeans
+
 6.sklearn.metrics – confusion_matrix
+
 7.scipy.optimize – linear_sum_assignment for label matching
 
 # Summary:
