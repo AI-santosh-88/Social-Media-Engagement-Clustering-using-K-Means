@@ -1,4 +1,4 @@
-🔹 Business Use Case:
+# Business use case : 
 Identifying Content Strategies Through Engagement Clustering
 # Problem:
  Social media pages publish various types of content (videos, photos, links, status updates), and user interactions vary across these content types. Understanding which content types lead to high engagement can help optimize future content strategies.
