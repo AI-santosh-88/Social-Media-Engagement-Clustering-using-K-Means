@@ -19,16 +19,19 @@ The workflow includes:
 * Elbow method to identify optimal number of clusters
   
 # Responsibilities:
-1.DataCleaning & Preparation
+1.Data Cleaning & Preparation
 * Handled null values
 * Dropped irrelevant columns (Column1 to Column4, status_id, status_published)
+  
 2.Feature Engineering
 * Encoded categorical variable (status_type) using LabelEncoder
 * Applied MinMaxScaler for normalization
+  
 3.Modeling & Evaluation
 * Trained K-Means model with different cluster numbers (2–4)
 * Evaluated using accuracy and confusion matrix after aligning cluster labels
 * Used elbow method to determine optimal clusters
+  
 4.Insights & Reporting
 * Identified optimal cluster configuration
 * Gained insight into how different content types engage audiences differently
